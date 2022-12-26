@@ -1,3 +1,5 @@
+![Vaccine](https://github.com/juanakbar/vaccine-VB.NET/blob/main/mockup.png)
+
 Hi folks, this project was made using
 - VB.NET
 - .NET Framework 4.6
